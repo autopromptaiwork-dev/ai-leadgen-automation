@@ -125,6 +125,10 @@ Data Cleaning
       ↓
 Google Sheets
 
+## Workflow Architecture
+
+![AI LeadGen Automation Workflow](ai-leadgen-workflow.png)
+
 ## How It Works
 
 ### 1. Input
